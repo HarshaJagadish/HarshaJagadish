@@ -1,9 +1,12 @@
 ### Hi there 👋
-# I am Harsha Jagadish , I am a software engineer and a FrontEnd solutions architect with experties on cloud architecture.
+#### I am Harsha Jagadish , I am a software engineer and a FrontEnd solutions architect with experties on cloud architecture.
 
-🔭 I’m currently working on bringing ML to the browser 
-🌱 I’m currently learning Tensorflow JS , Tensorflow , Python and all the new JS libraries
+- 🔭 I’m currently working on bringing ML to the browser 
+- 🌱 I’m currently learning Tensorflow JS , Tensorflow , Python and all the new JS libraries
+- ⚡ Fun fact: I have certifications on AWS , Google and Azure solution architecture as a professional
+- 👯 I’m looking to collaborate on Deno and FaunaDB 
 
+# some detail about my repos :
 [![Harsha's github stats](https://github-readme-stats.vercel.app/api?username=HarshaJagadish&show_icons=true&theme=buefy&count_private=true)]
 
 <!--
