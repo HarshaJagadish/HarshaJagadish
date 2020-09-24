@@ -1,4 +1,10 @@
 ### Hi there 👋
+# I am Harsha Jagadish , I am a software engineer and a FrontEnd solutions architect with experties on cloud architecture.
+
+🔭 I’m currently working on bringing ML to the browser 
+🌱 I’m currently learning Tensorflow JS , Tensorflow , Python and all the new JS libraries
+
+[![Harsha's github stats](https://github-readme-stats.vercel.app/api?username=HarshaJagadish&show_icons=true&theme=buefy&count_private=true)]
 
 <!--
 **HarshaJagadish/HarshaJagadish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
