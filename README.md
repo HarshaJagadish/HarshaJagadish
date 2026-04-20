@@ -6,8 +6,8 @@
 - ⚡ Fun fact: I have certifications on AWS , Google and Azure solution architecture as a professional
 - 👯 I’m looking to collaborate on Deno and FaunaDB 
 
-# some detail about my repos :
-<!--
+<!-- # some detail about my repos :
+
 **HarshaJagadish/HarshaJagadish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
