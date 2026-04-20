@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### I am Harsha Jagadish , I am a software engineer and a FrontEnd solutions architect with experties on cloud architecture.
+#### I am Harsha Jagadish , I am an engineering manager and a cloud solutions architect.
 
 - 🔭 I’m currently working on bringing ML to the browser 
 - 🌱 I’m currently learning Tensorflow JS , Tensorflow , Python and all the new JS libraries
